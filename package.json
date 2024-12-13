@@ -2,12 +2,7 @@
   "name": "exai",
   "version": "0.1.1",
   "private": true,
-  "homepage":"https://github.com/Foukaridis/exai-front",
-  "author": {
-    "name": "CodedThemes",
-    "email": "CodedThemes@gmail.com",
-    "url": "https://codedthemes.com/"
-  },
+  "homepage": ".",
   "scripts": {
     "start": "env-cmd -f .env vite",
     "build": "vite build",
